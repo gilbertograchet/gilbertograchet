@@ -1,4 +1,4 @@
-# Gilberto Grachet
+# Bem vindos!
 
 <a href="https://www.linkedin.com/in/gilberto-grachet-junior-90a295156/">
  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" />
@@ -12,10 +12,24 @@
  <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
 
-## 👨‍💻 Bem vindos a meu perfil 
+## 👨‍💻 Sobre meu perfil:
 - 🙋‍♂️ Meu nome é Gilberto, sou estudante de programação e tenho o objetivo de me tornar um programador full stack. <br>
 - 🤝 Busco colaborar em projetos e ajudar a comunidade de alguma forma, além de aprender bastante com vocês.  <br>
-- 📫 Para entrar em contato comigo, clique em qualquer um dos emblemas acima e me chame para bater um papo
+- 📫 Para entrar em contato comigo, clique em qualquer um dos emblemas acima e me chame para bater um papo.
+
+## Tecnologias em desenvolvimento:
+
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+
+
+
 
 
 
