@@ -13,7 +13,7 @@
 </a>
 
 ## 👨‍💻 Sobre meu perfil:
-- 🙋‍♂️ Meu nome é Gilberto, sou estudante de programação e tenho o objetivo de me tornar um programador full stack. <br>
+- 🙋‍♂️ Meu nome é Gilberto, sou Formado em Gestão da Tecnologia da Informação e Curso MBA em Cloud Computing e Devops. <br>
 - 🤝 Busco colaborar em projetos e ajudar a comunidade de alguma forma, além de aprender bastante com vocês.  <br>
 - 📫 Para entrar em contato comigo, clique em qualquer um dos emblemas acima e me chame para bater um papo.
 
